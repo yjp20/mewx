@@ -1,0 +1,12 @@
+{
+	"name": "mewx-tic",
+	"version": "1.0.0",
+	"description": "Example mewx usage",
+	"main": "app.js",
+	"author": "Young Jin Park",
+	"license": "MIT",
+	"dependencies": {},
+	"scripts": {
+		"start": "nodemon --ext css,js --watch ../../packages app.js"
+	}
+}

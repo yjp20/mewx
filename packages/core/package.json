@@ -1,0 +1,20 @@
+{
+  "name": "mewx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Young Jin Park",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.21.2",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-compress": "^5.0.1",
+    "koa-helmet": "^5.2.0",
+    "koa-router": "^9.1.0",
+    "mewx-client": "^1.0.0",
+    "mewx-module-auth": "^1.0.0",
+    "sqlite3": "^5.0.0",
+    "yup": "^0.29.2"
+  }
+}
