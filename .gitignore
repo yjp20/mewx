@@ -1,6 +1,8 @@
 *.swo
 *.swp
 *.swn
+*.log
+*.sqlite
 
 node_modules/
 dist/
